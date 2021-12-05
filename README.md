@@ -1,2 +1,2 @@
-# Resumo-Expandido-Aprendizagem-de-M-quina
-Trabalho feito na disciplina de Inteligência Artificial, notebook do Prof.Dr Alison Zille Lopes.
+# Resumo-Expandido-Aprendizagem-de-Máquina
+Trabalho feito na disciplina de Inteligência Artificial, notebook produzido pelo Prof.Dr Alison Zille Lopes.
